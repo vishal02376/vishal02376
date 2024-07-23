@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b…6302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalk025&label=Profile%20views&color=0e75b6&style=flat" alt="vishalk025" /> </p>
 
